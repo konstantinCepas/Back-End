@@ -1,7 +1,7 @@
 import actions from './actions';
-import routers from './router';
+import routes from './router';
 
 export default {
   actions,
-  routers,
+  routes,
 };
